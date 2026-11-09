@@ -93,7 +93,22 @@ Contributions, suggestions, and bug reports will be welcome once the initial dev
 
 ## License
 
-This project is intended to be released under the MIT License. A license file will be added before the first public release.
+PRLens is licensed under the
+GNU Affero General Public License v3.0 or later.
+
+You are free to:
+
+- Use PRLens commercially.
+- Modify its source code.
+- Redistribute original or modified versions.
+- Host your own instance.
+
+Under the AGPL-3.0, modified versions distributed
+or made available over a network must comply with
+the applicable source-code disclosure requirements.
+
+See [LICENSE-AGPL-3.0](./LICENSE-AGPL-3.0)
+for the complete license.
 
 ---
 
